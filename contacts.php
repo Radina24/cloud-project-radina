@@ -4,6 +4,6 @@
         <meta charset="utf-8">
     </head>
     <body>
-        Аз съм Радина. s196259@stud.uni-ruse.bg
+        I am Radina. s196259@stud.uni-ruse.bg
     </body>
 </html>
