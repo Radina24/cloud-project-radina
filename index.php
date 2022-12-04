@@ -5,6 +5,6 @@
     </head>
     <body>
         Hello :)
-        <href "contacts.php">Contacts</href>
+        <a href "/contacts.php">Contacts</a>
     </body>
 </html>
